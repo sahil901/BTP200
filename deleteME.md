@@ -1,2 +1,0 @@
-# BTP200
-BTP200 Summer 2019 (C++)
